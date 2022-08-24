@@ -2,7 +2,7 @@
 
 ## :pizza: I'm a beginner Python-developer :hamburger:
 
-### Languages and Tools:
+### :o: Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-dJANGO-0c4b33?style=for-the-badge&logo=DJANGO)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eae9e1?style=for-the-badge&logo=postgreSQL)
@@ -11,6 +11,6 @@
 ![GUNICORN](https://img.shields.io/badge/-gunicorn-eae9e1?style=for-the-badge&logo=gunicorn)
 ![GIT](https://img.shields.io/badge/-GIT-eae9e1?style=for-the-badge&logo=git)
 
-### Contacts:
+### :o: Contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-eae9e1?style=for-the-badge&logo=Telegram)](https://t.me/Valerdon)
