@@ -1,6 +1,6 @@
 [![Header](https://github.com/v4lerdon/v4lerdon/blob/main/assets/banner.png)](https://youtu.be/dQw4w9WgXcQ)
-
-## :pizza: I'm a beginner Python-developer :hamburger:
+![views](https://komarev.com/ghpvc/?username=v4lerdon&style=for-the-badge)
+## :pizza: I'm a beginner Python-developer :hamburger: 
 
 ### :o: Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)
@@ -14,3 +14,4 @@
 ### :o: Contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-eae9e1?style=for-the-badge&logo=Telegram)](https://t.me/Valerdon)
+[![email](https://img.shields.io/badge/-valerayurchenko14@gmail.com-eae9e1?style=for-the-badge&logo=gmail)](mailto:valerayurchenko14@gmail.com)
