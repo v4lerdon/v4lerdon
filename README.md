@@ -1,7 +1,6 @@
 [![Header](https://github.com/v4lerdon/v4lerdon/blob/main/assets/banner.png)](https://youtu.be/dQw4w9WgXcQ)
 ![views](https://komarev.com/ghpvc/?username=v4lerdon&style=for-the-badge)
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/v4lerdon)
-## :pizza: I'm a beginner Python-developer :hamburger: 
+[![codewars](https://www.codewars.com/users/v4lerdon/badges/small)](https://www.codewars.com/users/v4lerdon)
 
 ### :o: Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)
