@@ -1,7 +1,3 @@
-[![Header](https://github.com/v4lerdon/v4lerdon/blob/main/assets/banner.png)](https://youtu.be/dQw4w9WgXcQ)
-
-![views](https://komarev.com/ghpvc/?username=v4lerdon&style=for-the-badge)
-
 ### :o: Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-ffdf5a?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-dJANGO-0c4b33?style=for-the-badge&logo=DJANGO)
@@ -15,3 +11,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-eae9e1?style=for-the-badge&logo=Telegram)](https://t.me/Valerdon)
 [![email](https://img.shields.io/badge/-valerayurchenko14@gmail.com-eae9e1?style=for-the-badge&logo=gmail)](mailto:valerayurchenko14@gmail.com)
+
+
+![views](https://komarev.com/ghpvc/?username=v4lerdon&style=for-the-badge)
